@@ -35,7 +35,8 @@ public class RegisterSuccessful {
 	System.out.println(body.asPrettyString());
 	
 	
-		System.out.print("haiiii");
+	System.out.print("haiiii");
+	System.out.println("samy");
 		
 		
 	}
